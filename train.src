@@ -1,0 +1,4 @@
+conda activate tensorflow_p36
+
+python train.py -c config-full.json
+
